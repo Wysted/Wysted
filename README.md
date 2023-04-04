@@ -1,4 +1,4 @@
-### Hola, soy estudiante de la UTEM 👋
+### Hola, soy estudiante de la UTEM 😀
 
 
 <!--
