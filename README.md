@@ -1,4 +1,4 @@
-### Hola, soy egresado de la UTEM 😀
+### Hola, desarrollador o eso dicen 😀
 
 
 <!--
